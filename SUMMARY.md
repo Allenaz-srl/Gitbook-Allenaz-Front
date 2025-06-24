@@ -54,6 +54,8 @@
     * [ROM](app-architecture/layout/setting/rom.md)
     * [SettingMenu](app-architecture/layout/setting/settingmenu.md)
     * [WearingPosition](app-architecture/layout/setting/wearingposition.md)
+    * [Regolazioni movimento assistito](app-architecture/layout/setting/regolazioni-movimento-assistito.md)
+    * [Comandi vocali](app-architecture/layout/setting/comandi-vocali.md)
 
 ## Software
 
