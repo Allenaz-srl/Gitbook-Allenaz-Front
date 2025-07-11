@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # SharedLayout.jsx
 
 The `SharedLayout.jsx` file serves as a layout component that provides a consistent structure across different pages of the AllyArm application. It includes common elements such as the navigation bar and notification components that are displayed on all pages. The code in this file can be divided into the following key sections:

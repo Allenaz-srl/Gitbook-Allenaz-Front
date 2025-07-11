@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Trigger.jsx
 
 The `Trigger.jsx` component serves as the interactive element that allows users to open and access the Notification Center. It provides a visual indicator of the number of unread notifications and triggers the display of the Notification Center when clicked.

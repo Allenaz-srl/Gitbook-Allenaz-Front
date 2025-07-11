@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # WarningNotifications.jsx
 
 The `WarningNotifications.jsx` component plays a crucial role in the AllyArm application by managing and displaying real-time warning notifications to users. This component ensures that users are promptly alerted to non-critical but potentially important issues, enabling them to take preemptive action before they escalate into more severe problems. Below is a detailed examination of the architecture and inner workings of the `WarningNotifications.jsx` component:

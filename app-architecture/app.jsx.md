@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # App.jsx
 
 The `App.jsx` file serves as the central hub of the AllyArm application, orchestrating the overall structure, navigation, and user authentication. It brings together various components and modules, ensuring that the application functions seamlessly. The code in this file can be grouped and understood in the following key sections:

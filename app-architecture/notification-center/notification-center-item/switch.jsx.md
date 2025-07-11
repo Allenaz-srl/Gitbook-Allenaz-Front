@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Switch.jsx
 
 The `Switch.jsx` component is a reusable toggle switch that can be integrated into various parts of the Notification Center or the broader application. It’s designed to be visually intuitive and easy to use, offering a simple mechanism for users to toggle between two states (e.g., on/off, show all/show unread).

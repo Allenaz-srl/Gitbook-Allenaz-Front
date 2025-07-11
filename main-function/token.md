@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Token
 
 The AllyArm application uses JSON Web Tokens (JWT) for authentication and secure communication between the frontend and backend. To ensure that these tokens are correctly interpreted, the application includes a utility function for decoding JWTs. This function is defined in the `tokenDecode.jsx` file and is utilized in the main application file, `app.jsx`.

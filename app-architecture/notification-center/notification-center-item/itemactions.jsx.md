@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ItemActions.jsx
 
 The `ItemActions` component is a functional React component responsible for rendering action buttons associated with a single notification. These actions typically include marking a notification as read or performing a custom action, such as archiving. The component is designed to be versatile and easy to integrate into different notification layouts.

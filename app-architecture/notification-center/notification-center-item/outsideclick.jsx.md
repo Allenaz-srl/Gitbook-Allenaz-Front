@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # OutsideClick.jsx
 
 The `OutsideClick` utility function is a custom React hook that simplifies the process of handling click events that occur outside a specific DOM element. This is particularly useful in the Notification Center, where it might be necessary to close a notification panel or dropdown menu when the user clicks outside of it.

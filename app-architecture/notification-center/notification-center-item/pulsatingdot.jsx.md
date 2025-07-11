@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # PulsatingDot.jsx
 
 The `PulsatingDot.jsx` component is a small, animated indicator that provides a visual cue to users, typically representing that there are new or unread notifications. It is designed to be lightweight and visually distinct, making it an effective tool for drawing user attention without being overly intrusive.

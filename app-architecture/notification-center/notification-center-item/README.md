@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Notification Center Item
 
 The Notification Center in AllyArm is a highly modular and interactive feature designed to manage and display notifications with clarity and responsiveness. It consists of several components, each responsible for specific aspects of the user interface and functionality. Below is a brief overview of the components that collectively create the Notification Center:

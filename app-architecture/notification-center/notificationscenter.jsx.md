@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # NotificationsCenter.jsx
 
 The `NotificationsCenter.jsx` file is a crucial component in the AllyArm application that manages the display and interaction of real-time notifications related to system errors and warnings. This component uses state management, WebSocket communication, and animation techniques to provide a dynamic and responsive notification system. Here's an overview of its architecture and functionality:

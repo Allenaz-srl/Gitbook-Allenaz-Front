@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Index.js
 
 The `index.js` file is the entry point of the AllyArm application. It is responsible for bootstrapping the React application and setting up the necessary environment for routing, internationalization, and rendering the main `App` component. The structure of this file can be broken down into the following sections:
