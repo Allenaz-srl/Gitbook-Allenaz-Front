@@ -17,9 +17,9 @@ L’interfaccia è composta da **4 slider**:
 | Regione     | Parametro | Range      |
 | ----------- | --------- | ---------- |
 | Braccio     | Lunghezza | 0 – 60 mm  |
-| Braccio     | Peso      | 0 – 100 %  |
+| Braccio     | Peso      | 0 – 200 %  |
 | Avambraccio | Lunghezza | 0 – 200 mm |
-| Avambraccio | Peso      | 0 – 100 %  |
+| Avambraccio | Peso      | 0 – 200 %  |
 
 ## 🔄 Stato iniziale e sincronizzazione
 
